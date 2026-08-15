@@ -6,11 +6,23 @@ privado.
 
 ## Baixar
 
+**O caminho recomendado é o [VPLaunch](https://ekooll.github.io/vperts-lab/)** — o launcher da VP
+Store. Instale ele, e a primeira janela que abre é a dele: de lá você instala este app, vê o que já
+está instalado e recebe aviso de versão nova dos dois jogos numa tela só.
+
+**[Instalar o VPLaunch](https://github.com/Vperts/vplaunch-releases/releases/latest/download/VPLaunch-Setup.exe)**
+
+<details>
+<summary>Só este app, sem o launcher</summary>
+
 Sempre a versão mais recente, link fixo:
 
 **[VpertsMultiWG-Setup.exe](https://github.com/ekooll/vperts-multi-wg-releases/releases/latest/download/VpertsMultiWG-Setup.exe)**
 
-Duplo-clique instala e abre. Instala para o usuário, sem pedir admin.
+Duplo-clique instala e **abre direto no Poke Web Games** — este instalador é o app do jogo, não o
+launcher. Instala para o usuário, sem pedir admin. O auto-update continua funcionando normalmente.
+
+</details>
 
 ## O que é o app
 
